@@ -30,4 +30,4 @@ The RDBMS that MHN-Admin uses is the relational databases mongo-db.It has very f
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+Most of the challenges encountered while doing this project were from not knowing how to work with google cloud platform and learning the new commands.I am very happy that i was able to complete this challenge because it incorporates alot of useful information while providing a good way to practice new skills.
